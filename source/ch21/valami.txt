@@ -1,0 +1,7 @@
+Sándor 22 22.22
+Tamás 18 45.45
+Benedek 44 49.77
+Elemér 19 44.1
+István 77 40
+Leventte 10 1
+
